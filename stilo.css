@@ -1,0 +1,92 @@
+img {
+	height: 100%;
+    width:  65%;
+    height: auto;
+    padding: 2px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+
+BODY {
+background-color: black;
+
+  color: white;}
+  
+  
+
+
+.naslov { 
+	text-align: center;
+	width: 100%;
+}
+.title {
+    
+    padding-top:0.3em;
+	margin-left: 30%;
+    color: white;
+    font-size: 25px;
+	text-align: right;
+	width: 200px;
+    
+	
+    
+}
+
+#nav{
+    
+    font-size: 1em;
+    text-align: center;
+	  background-color: #f44336;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  border-radius: 15px;
+  width:100%;
+  margin-bottom: 10px;
+}
+
+#nav a:link,
+#nav a:visited,
+#nav a:hover {
+    font-size: 1.2em;
+    color: white;
+    text-decoration:none;
+    display:block;
+    padding:1em;
+    margin:1em;
+    border-radius: 9999px;
+    font-weight:600;
+   
+}
+
+a:hover, a:active {
+    background-color: red;
+  }
+
+#items2,#items1,#items3 {
+	padding: 10px;
+}
+
+footer { 
+	
+	color: white;
+	text-align: center;
+	width: 100%;
+	padding: 5px;
+}
+
+
+.pod {
+	vertical-align: center;
+}
+
+.white { 
+width:100%;
+border-color:rgba(255, 255, 255, 0.774);
+border-style:solid;
+border-width:0 0 1px;
+
+padding:0;}
